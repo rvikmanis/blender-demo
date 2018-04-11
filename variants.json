@@ -1,0 +1,20 @@
+{
+  "beach": {
+    "textures": {
+      "Chest": "assets/beach.jpg"
+    },
+    "max_allowed_render_time": 9
+  },
+  "pyramid": {
+    "textures": {
+      "Chest": "assets/pyramid.jpg"
+    },
+    "max_allowed_render_time": 9
+  },
+  "valles_marinaris": {
+    "textures": {
+      "Chest": "assets/valles_marinaris.jpg"
+    },
+    "max_allowed_render_time": 13
+  }
+}
