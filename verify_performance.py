@@ -6,7 +6,7 @@ errors = []
 
 def log_error_if_not(predicate, message):
     global errors
-    if predicate:
+    if not predicate:
         errors += [message]
 
 
